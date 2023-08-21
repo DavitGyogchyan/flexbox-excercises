@@ -1,0 +1,281 @@
+*{
+  margin: 0;  
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.parent{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+  margin: 80px auto;
+  max-width: 800px;
+  height: 200px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
+
+
+/* ------------------------------------------------------------------- */
+
+
+.parent1{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-end;
+  margin: 80px auto;
+  max-width: 800px;
+  height: 200px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
+
+/* ------------------------------------------------------------------- */
+
+
+
+.parent2{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin: 80px auto;
+  max-width: 800px;
+  height: 200px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
+
+
+
+
+/* ------------------------------------------------------------------- */
+
+.parent3{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin: 80px auto;
+  max-width: 800px;
+  height: 200px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
+
+/* ------------------------------------------------------------------- */
+
+.parent4{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  margin: 80px auto;
+  max-width: 800px;
+  height: 200px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
+
+/* ------------------------------------------------------------------- */
+
+.parent5{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  margin: 80px auto;
+  max-width: 800px;
+  height: 200px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
+
+
+/* ------------------------------------------------------------- */
+
+.parent6{
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: flex-start;
+  margin: 10px auto;
+  max-width: 800px;
+  height: 720px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
+
+
+
+/* ------------------------------------------------------------------- */
+
+
+.parent7{
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: flex-end;
+  margin: 10px auto;
+  max-width: 800px;
+  height: 720px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
+
+/* ------------------------------------------------------------------------- */
+
+.parent8{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin: 10px auto;
+  max-width: 800px;
+  height: 720px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.parent9{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin: 10px auto;
+  max-width: 800px;
+  height: 720px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
+
+/* -------------------------------------------------------------------------- */
+
+
+.parent10{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  margin: 10px auto;
+  max-width: 800px;
+  height: 720px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
+
+/* -------------------------------------------------------------------------- */
+
+
+.parent11{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  margin: 10px auto;
+  max-width: 800px;
+  height: 720px;  
+  background: #4b0071;
+}
+
+
+.child{ 
+  width: 100px;
+  height: 100px;
+  color: #fff; 
+  text-align: center;
+  line-height: 100px;
+  background: #00aca3;
+}
